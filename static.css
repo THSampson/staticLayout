@@ -1,0 +1,23 @@
+#wrapper{
+    background-color: black;
+    color: white;
+    top: 0;
+    left: 0;
+    right: 30%;
+    position: fixed;
+    display: inline-flexbox;
+    font-size: 14pt;
+    padding: 10px 10px 10px 10px;
+  
+}
+
+.navbar-a {
+    text-align: left;
+    float: left;
+}
+
+.navbar-b {
+    text-align: center;
+   float: right;
+
+}
