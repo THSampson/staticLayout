@@ -41,8 +41,7 @@ img {
     border-style: solid;
     border-color: white;
     border-width: 0px 0px 0px 2px;
-    margin-top: -8px;
-     font-family: sans-serif;
+    font-family: sans-serif;
     color: white;
     background-color: red;
     float: right;
@@ -51,7 +50,7 @@ img {
     height: 100px;
     text-indent: 35px;
     font-size: 10pt;
-    line-height: 60px;
+    line-height: 50px;
 
     
     
@@ -64,7 +63,6 @@ img {
     border-style: solid;
     border-color: white;
    border-width: 0px 5px 0px 5px;
-    margin-top: -8px;
     font-family: sans-serif;
     color: white;
     background-color: blue;
@@ -144,7 +142,7 @@ iframe {
     text-align: center;
     font-size: 16pt;
     font-style: bold;
-    line-height: 15px;
+    line-height: 20px;
 
 }
 .info {
