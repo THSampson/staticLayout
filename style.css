@@ -40,7 +40,7 @@ img {
     position: fixed;
     border-style: solid;
     border-color: white;
-    border-width: 0px 0px 0px 5px;
+    border-width: 0px 0px 0px 10px;
     font-family: sans-serif;
     color: white;
     background-color: red;
@@ -62,7 +62,7 @@ img {
     position: fixed;
     border-style: solid;
     border-color: white;
-   border-width: 0px 5px 0px 6px;
+   border-width: 0px 5px 0px 10px;
     font-family: sans-serif;
     color: white;
     background-color: blue;
@@ -142,6 +142,7 @@ iframe {
     text-align: center;
     font-size: 16pt;
     font-style: bold;
+    line-height: -5px;
 
 }
 .info {
